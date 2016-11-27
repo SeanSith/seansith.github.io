@@ -21,8 +21,7 @@ url: "http://seansith.com" # the base hostname & protocol for your site, e.g. ht
 twitter_username: SeanSith
 github_username:  SeanSith
 
-# Hyde Dependencies
-highlighter:      pygments
+highlighter:      rouge
 permalink:        pretty
 paginate:         5
 
