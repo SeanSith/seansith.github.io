@@ -27,7 +27,7 @@ paginate:         5
 
 # Build settings
 markdown: kramdown
-gems:
+plugins:
   - jekyll-feed
   - jekyll-pagination
 exclude:
