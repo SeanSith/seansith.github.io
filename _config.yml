@@ -248,3 +248,7 @@ defaults:
       comments: # true
       share: true
       related: true
+
+webrick:
+  headers:
+    Access-Control-Allow-Origin: "*"
