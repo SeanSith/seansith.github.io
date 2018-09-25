@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/seansmith
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.seansith.com
+  * I am seansmith (https://keybase.io/seansmith) on keybase.
+  * I have a public key ASAchqgfGKRXxKFJ9HOHlkvy3UWwnbtqjn-0-pEvJIlm6Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201c86a81f18a457c4a149f47387964bf2dd45b09dbb6a8e7fb4fa912f248966e80a",
+      "host": "keybase.io",
+      "kid": "01201c86a81f18a457c4a149f47387964bf2dd45b09dbb6a8e7fb4fa912f248966e80a",
+      "uid": "9ccf5fa4a840e7095649a78766c83c00",
+      "username": "seansmith"
+    },
+    "merkle_root": {
+      "ctime": 1537889096,
+      "hash": "c49d8da39ffebdb7ea73bcb89a43fca2c7e3910668795039fcd878ec0e0ed6de649484438821521a3e95c56c4c53427698989b508990a58b64e0907c7854432f",
+      "hash_meta": "5d98d01337099472834dd736796522170fc458691d178fb5825b314b12c88009",
+      "seqno": 3687188
+    },
+    "service": {
+      "entropy": "x+4lT19+HO2mC4m7FvTIxlhu",
+      "hostname": "www.seansith.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.6.2"
+  },
+  "ctime": 1537889127,
+  "expire_in": 504576000,
+  "prev": "0fcb8682e59a326531d832139ffd77fe8d299b9a04e9881dae992c9086986def",
+  "seqno": 32,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgHIaoHxikV8ShSfRzh5ZL8t1FsJ27ao5/tPqRLySJZugKp3BheWxvYWTESpcCIMQgD8uGguWaMmUx2DITn/13/o0pm5oE6YgdrpkskIaYbe/EIP8KF5uy2oAbfGIP1EkkQH1KId6VhC/u3grnlAZ54EM0AgHCo3NpZ8RALeMTe2nHrv2f93Ji7L9Ft5ygy3hmojTyVon7eaZkpP1P93ptFH7C8JUZKf5o2yIxrPUfIRezchapbBpvQQ0qCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIyBy2AtQAeKQXzRyCHC502VXaDsYrbYGLvIWvdC9CLxo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/seansmith
+
+==================================================================
