@@ -16,7 +16,7 @@ name                     : "Sean Smith"
 description              : "Thoughts from Sean Smith, a system reliability engineer and DevOps/technology enthusiast."
 # url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # baseurl                  : # the subpath of your site, e.g. "/blog"
-# repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : seansith/seansith.github.io
 # teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
