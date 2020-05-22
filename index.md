@@ -12,7 +12,7 @@ Why? No real reason other than other, preferred, distractions: I enjoy my work, 
 If you're looking for more information about me, there are a number of ways to get in touch over on the left. I'm happy to respond to actual, real questions, requests for advice, and offers. If you're just curious who I purport to be:
 
 
-<div class="notice--primary" style="font-style: italic">
+<div class="notice--primary" style="font-style: italic; border-radius:15px;">
 <p>Sean Smith is a system operations professional with 20+ years in the technology industry doing "DevOps"-style automation, enterprise storage, Linux/UNIX system administration, database administration, and LAN/WAN routing and switching. He has worked for Fortune 50 companies and small development agencies, attempting to gain more perspective on how technology can be used to solve people's problems. He enjoys solving problems involving architecture scalability, observability, and security.</p>
 
 <p>Serving in a number of volunteer leadership positions over the years, as well as in a senior staff member professionally, Sean focuses on understanding inclusivity, diversity, and how those factors can make organizations stronger. While we all have a long journey ahead, he appreciates learning opportunities and the growth they afford.</p>
