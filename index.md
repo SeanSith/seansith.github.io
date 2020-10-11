@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 ---
-
+blah
 In theory, someone's professional homepage should have some information about them, maybe some information about the kinds of work they do. Probably some thoughts, pithy or otherwise, about the industry in which they work.
 
 This, currently, has very little of that. I hope to make changes, but let's not hold our breath.
